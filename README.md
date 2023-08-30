@@ -42,7 +42,20 @@ Here is the code for the pie chart above
 
 ![TDF_PieChartCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/e706a92c-c62d-4d0e-aa44-e6ff3f7224ce)
 
-###
+### Line Chart
+
+The line chart below shows the BMI of the GC winner and points classification winners from 1991 to 2023. Notice how the GC winners BMI was much higher pre 2005 than it was afterwards. This was cycling's "dirty" era and the use of testosterone and HGH is likely partly what allowed the winners to achieve such a high BMI. Also of note for those who aren't well versed with cycling, GC competitors must climb well, so having a lot of muscle is not very helpful. Points competitions favor larger sprinter types with more fast-twitch muscle fiber which leads to them having a higher BMI than GC competitors.
+
+![LineChart_BMI](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/cb00bf4e-dfca-494c-b88c-6a387e7e66bf)
+
+Here is the code for the line chart above
+
+![TDF_LineChartCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/b73be7a8-5bfa-4900-8d35-016463b0908a)
+
+### Histogram
+
+### BoxPlot
+
 
 
 

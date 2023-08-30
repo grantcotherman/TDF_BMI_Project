@@ -28,7 +28,23 @@ This graph shows the number of TDF jerseys won by members of different countries
 
 ![BarChart_TDFJerseys](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/56e1c42e-7666-4067-a699-ef021ef2cbc7)
 
+Here is the code for the above bar chart
+
 ![BarChartCode_TDFJerseys](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/9873af6f-b245-47ad-ae84-65c2ffaf29b2)
+
+### Pie Chart
+
+The pie chart below shows the percentage of green jersey wins each country has. The Germany share was offset for a focusing effect. 
+
+![TDF_Pie_Points](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/14b615b7-add3-4e00-85f2-3e12f10318c7)
+
+Here is the code for the pie chart above
+
+![TDF_PieChartCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/e706a92c-c62d-4d0e-aa44-e6ff3f7224ce)
+
+###
+
+
 
 
 

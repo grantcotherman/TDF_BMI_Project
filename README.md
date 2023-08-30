@@ -16,3 +16,19 @@ A screenshot for how I retrieved the Tour de France GC winners is below.
 
 ![TDF_GCScraping](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/e87920b6-9f93-4fce-b27b-8f6dd1171d1e)
 
+It should be noted that I included Lance Armstrong and his GC wins in my analysis. He was technically stripped of his titles, but for what I'm doing I wanted to include him so that there wouldn't be a 7 year gap in dates. 
+
+## Preparing and Visualizing 
+
+The goal for this portion of my project was to get expereince building different types of plots in matplotlib. For each visualization I'll provide a short narrative as well as the code utilized to build it
+
+### Bar Chart
+This graph shows the number of TDF jerseys won by members of different countries, filtered to only show the top 10. Lance Armstrong wins were included and Germany's bar is a different color for a focusing effect on the viewer. 
+
+
+![BarChart_TDFJerseys](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/56e1c42e-7666-4067-a699-ef021ef2cbc7)
+
+![BarChartCode_TDFJerseys](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/9873af6f-b245-47ad-ae84-65c2ffaf29b2)
+
+
+

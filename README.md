@@ -53,8 +53,23 @@ Here is the code for the line chart above
 ![TDF_LineChartCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/b73be7a8-5bfa-4900-8d35-016463b0908a)
 
 ### Histogram
+The Histogram below shows the frequency distribution of BMI's for winners of the TDF mountain classification competitions. Of note is the fact that while the mountain classification is often thought of as a climber's competition,it is rarely won by a pure climber with a BMI below 20. Based on the nature of the competition it actually favors riders who have the power to stay in break aways during flat and rolling stages, while making uphill sprints for points. The data supports this as most of the winners have BMIs above 20.
+![TDF_Histogram](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/3256e147-61a4-4105-a34c-742579b28aee)
+
+Below is the code for the histogram above
+
+![TDF_HistogramCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/5eeb7d70-a972-46be-8c8c-f6c7946a3331)
+
 
 ### BoxPlot
+Finally, the most interesting and telling graph is the boxplots below showing the BMI distribution of jersey winners. What we see here is that the Mountain's Classification winners have the lowest average BMI and the most outliers, with a highly concentrated interquartlie range from roughly 20.3-21.3. Next is the GC winners with a slightly higher BMI and a less concentrated interquartile range. Finally, as expected the points classification winners (sprinters) have the highest average BMI at nearly 23 with a max of almost 25.
+
+![TDF_BoxPlot](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/efa2ee1c-eef2-4b97-a05b-14a5058c2578)
+
+Below is the code for the graph shown above
+
+![TDF_BoxplotCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/2e06563b-dfa2-4e1c-932f-a8d183ab0a58)
+
 
 
 

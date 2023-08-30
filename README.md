@@ -13,5 +13,6 @@ The project followed the following steps:
 ## Scraping
 To scrape the data I utilized the lxml and requests libraries to retrieve the html from webpages and xpath to select the information I needed.
 A screenshot for how I retrieved the Tour de France GC winners is below.
+
 ![TDF_GCScraping](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/e87920b6-9f93-4fce-b27b-8f6dd1171d1e)
 

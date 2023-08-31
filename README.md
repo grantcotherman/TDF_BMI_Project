@@ -34,7 +34,6 @@ The goal for this portion of my project was to get experience building different
 ### Bar Chart
 This graph shows the number of TDF jerseys won by members of different countries, filtered to only show the top 10. Lance Armstrong wins were included and Germany's bar is a different color for a focusing effect on the viewer. 
 
-
 ![BarChart_TDFJerseys](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/56e1c42e-7666-4067-a699-ef021ef2cbc7)
 
 Here is the code for the above bar chart
@@ -69,7 +68,6 @@ The Histogram below shows the frequency distribution of BMIs for winners of the 
 Below is the code for the histogram above
 
 ![TDF_HistogramCode](https://github.com/grantcotherman/TDF_BMI_Project/assets/94634170/5eeb7d70-a972-46be-8c8c-f6c7946a3331)
-
 
 ### BoxPlot
 Finally, the most interesting and telling graph is the boxplots below showing the BMI distribution of jersey winners. What we see here is that the Mountain's Classification winners have the lowest average BMI and the most outliers, with a highly concentrated interquartile range from roughly 20.3-21.3. Next is the GC winners with a slightly higher BMI and a less concentrated interquartile range. Finally, as expected the points classification winners (sprinters) have the highest average BMI at nearly 23 with a max of almost 25.
